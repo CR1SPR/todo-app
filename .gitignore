@@ -1,0 +1,19 @@
+# Dependency directory
+node_modules
+
+# Logs
+logs
+*.log
+
+# Editor and other tmp files
+*.swp
+*.un~
+*.iml
+*.ipr
+*.iws
+*.sublime-*
+.idea/
+*.DS_Store
+
+# Build directory
+build
